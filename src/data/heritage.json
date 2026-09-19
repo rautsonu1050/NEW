@@ -1,0 +1,220 @@
+{
+  "AudioGuide": [],
+  "AudioTrivia": [],
+  "LocalTravelPhrase": [],
+  "LandmarkNavStep": [
+    {
+      "stepNumber": 1,
+      "instruction": "Exit Rajiv Chowk Metro Station via Gate No. 5 (Palika Bazaar / Janpath side)",
+      "landmarkCue": "Take escalator up, turn right past the Delhi Police tourist booth",
+      "mode": "Metro Exit",
+      "modeIconEmoji": "🚇",
+      "distanceOrTime": "80m • 2 mins",
+      "streetSmartTip": "Avoid Gate 1 during peak hours (5-7 PM); Gate 5 has wider ramps & smoother flow.",
+      "city": "Delhi"
+    },
+    {
+      "stepNumber": 2,
+      "instruction": "Walk straight along Radial Road 3 past the famous Indian Coffee House",
+      "landmarkCue": "Look for the red-brick heritage arcade on your left",
+      "mode": "Heritage Arcade Walk",
+      "modeIconEmoji": "🚶",
+      "distanceOrTime": "220m • 3 mins",
+      "streetSmartTip": "Stay inside the covered colonnade for shade during hot afternoons.",
+      "city": "Delhi"
+    },
+    {
+      "stepNumber": 3,
+      "instruction": "Turn left at the Hanuman Mandir crossing towards Gujarati Street Market",
+      "landmarkCue": "Directly opposite the century-old floral garland sellers and sweet shop",
+      "mode": "Street Crossing",
+      "modeIconEmoji": "⛩️",
+      "distanceOrTime": "110m • 2 mins",
+      "streetSmartTip": "Cross via the pedestrian zebra crossing; vehicles turn fast on Connaught Outer Circle.",
+      "city": "Delhi"
+    },
+    {
+      "stepNumber": 4,
+      "instruction": "Board a shared E-Rickshaw from the designated electric stand",
+      "landmarkCue": "E-Rickshaw driver stand near SBI ATM kiosk (Pay fixed ₹10 per seat)",
+      "mode": "Shared E-Rickshaw",
+      "modeIconEmoji": "⚡",
+      "distanceOrTime": "1.2 km • 6 mins",
+      "streetSmartTip": "UPI QR code is pasted behind the driver seat. No cash change needed!",
+      "city": "Delhi"
+    },
+    {
+      "stepNumber": 5,
+      "instruction": "Enter the narrow pedestrian lane (Gali) opposite Sharma Sweet Corner",
+      "landmarkCue": "Under the decorative arched doorway; 40m walk into courtyard",
+      "mode": "Pedestrian Gali",
+      "modeIconEmoji": "🏮",
+      "distanceOrTime": "60m • 1 min",
+      "streetSmartTip": "Two-wheelers & pedestrians only. Destination main entrance is on right with brass bell.",
+      "cautionAlert": "Ignore touts offering duplicate guide passes; official ASI QR counter is inside the courtyard.",
+      "city": "Delhi"
+    },
+    {
+      "stepNumber": 1,
+      "instruction": "Arrive in Jaipur from $origin via Vande Bharat Express or Highway Taxi",
+      "landmarkCue": "Jaipur Junction Railway Portico / Sindhi Camp Hub",
+      "mode": "Intercity Transit",
+      "modeIconEmoji": "🚅",
+      "distanceOrTime": "Arrival",
+      "streetSmartTip": "Prepaid E-Rickshaws and Metro connect directly to the Pink City.",
+      "city": "Jaipur"
+    },
+    {
+      "stepNumber": 2,
+      "instruction": "Take Jaipur Metro Pink Line from Sindhi Camp to Badi Chaupar",
+      "landmarkCue": "Exit Gate 2 opens right in front of Hawa Mahal facade",
+      "mode": "Jaipur Metro",
+      "modeIconEmoji": "🚇",
+      "distanceOrTime": "8 mins • ₹15",
+      "streetSmartTip": "Tap Smart Card or scan UPI QR code at the turnstile.",
+      "city": "Jaipur"
+    },
+    {
+      "stepNumber": 3,
+      "instruction": "Walk through the shaded arcade to City Palace and Jantar Mantar",
+      "landmarkCue": "Follow pedestrian Pink City heritage corridor",
+      "mode": "Colonnade Walk",
+      "modeIconEmoji": "🚶",
+      "distanceOrTime": "350m • 4 mins",
+      "streetSmartTip": "Keep hat and sunglasses handy for open courtyards.",
+      "city": "Jaipur"
+    },
+    {
+      "stepNumber": 1,
+      "instruction": "Arrive in Goa at Dabolim / Mopa Airport or Madgaon Station from $origin",
+      "landmarkCue": "Goa Tourism Prepaid Taxi / Airport AC Electric Bus Bay",
+      "mode": "Arrival Hub",
+      "modeIconEmoji": "✈️",
+      "distanceOrTime": "Arrival",
+      "streetSmartTip": "Take the Kadamba Electric AC Airport shuttle to Panaji or Calangute for ₹150.",
+      "city": "Goa"
+    },
+    {
+      "stepNumber": 2,
+      "instruction": "Pick up self-drive scooter or EV cab from designated hub",
+      "landmarkCue": "Authorized Goa RTO Tourist Scooter Stand",
+      "mode": "Coastal Ride",
+      "modeIconEmoji": "🛵",
+      "distanceOrTime": "25 mins",
+      "streetSmartTip": "Always wear helmet; Goa traffic police conduct routine checks along coastal roads.",
+      "city": "Goa"
+    },
+    {
+      "stepNumber": 1,
+      "instruction": "Arrive in Varanasi from $origin via Vande Bharat / Shiv Ganga Express",
+      "landmarkCue": "Varanasi Junction / Banaras Railway Station (Cantt)",
+      "mode": "Express Train",
+      "modeIconEmoji": "🚅",
+      "distanceOrTime": "Arrival",
+      "streetSmartTip": "Take the new Ropeway or E-Rickshaw from Cantt station directly to Godowlia Chowk.",
+      "city": "Varanasi"
+    },
+    {
+      "stepNumber": 2,
+      "instruction": "Walk through the no-vehicle heritage zone of Godowlia to Dashashwamedh Ghat",
+      "landmarkCue": "Follow pedestrian street lined with silk saree and sweet shops",
+      "mode": "Heritage Walk",
+      "modeIconEmoji": "🚶",
+      "distanceOrTime": "400m • 5 mins",
+      "streetSmartTip": "Vehicles prohibited in Godowlia inner circle between 9 AM - 9 PM for peaceful walking.",
+      "city": "Varanasi"
+    }
+  ],
+  "MultimodalLeg": [
+    {
+      "mode": "Walk",
+      "modeEmoji": "🚶",
+      "fromLandmark": "Current Location",
+      "toLandmark": "Rajiv Chowk Metro Gate 5",
+      "fare": 0,
+      "duration": "3 mins",
+      "tip": "Use shaded Connaught Place arcade",
+      "city": "Delhi"
+    },
+    {
+      "mode": "Delhi Metro (Yellow Line)",
+      "modeEmoji": "🚇",
+      "fromLandmark": "Rajiv Chowk",
+      "toLandmark": "Chandni Chowk Station",
+      "fare": 20,
+      "duration": "8 mins",
+      "tip": "Board Coach 2-3 for easiest exit stairs",
+      "city": "Delhi"
+    },
+    {
+      "mode": "Shared E-Rickshaw",
+      "modeEmoji": "⚡",
+      "fromLandmark": "Metro Gate 3",
+      "toLandmark": "Red Fort Lahori Gate",
+      "fare": 15,
+      "duration": "7 mins",
+      "tip": "Fixed fare ₹15; scan UPI QR code",
+      "city": "Delhi"
+    },
+    {
+      "mode": "Heritage Walk",
+      "modeEmoji": "🚶",
+      "fromLandmark": "Lahori Gate Entrance",
+      "toLandmark": "Monument Courtyard",
+      "fare": 0,
+      "duration": "4 mins",
+      "tip": "Pass security check with digital ASI ticket",
+      "city": "Delhi"
+    },
+    {
+      "mode": "Auto Rickshaw (Metered)",
+      "modeEmoji": "🛺",
+      "fromLandmark": "Hotel / Starting Point",
+      "toLandmark": "Red Fort Parking Bay",
+      "fare": 110,
+      "duration": "30 mins",
+      "tip": "Ask driver to turn on meter (₹30 first 1.5km + ₹11/km)",
+      "city": "Delhi"
+    },
+    {
+      "mode": "Walk",
+      "modeEmoji": "🚶",
+      "fromLandmark": "Auto Bay",
+      "toLandmark": "Lahori Gate",
+      "fare": 0,
+      "duration": "2 mins",
+      "tip": "Direct pedestrian plaza entrance",
+      "city": "Delhi"
+    },
+    {
+      "mode": "Walk",
+      "modeEmoji": "🚶",
+      "fromLandmark": "Origin Point",
+      "toLandmark": "Super Bazar Bus Stop",
+      "fare": 0,
+      "duration": "5 mins",
+      "tip": "Well-lit pavement",
+      "city": "Delhi"
+    },
+    {
+      "mode": "DTC Green AC Bus (Route 419)",
+      "modeEmoji": "🚌",
+      "fromLandmark": "Super Bazar",
+      "toLandmark": "Red Fort Terminal",
+      "fare": 15,
+      "duration": "30 mins",
+      "tip": "Pink ticket free for female travelers; UPI accepted on One Delhi App",
+      "city": "Delhi"
+    },
+    {
+      "mode": "Walk",
+      "modeEmoji": "🚶",
+      "fromLandmark": "Bus Terminal",
+      "toLandmark": "Entry Gate",
+      "fare": 0,
+      "duration": "5 mins",
+      "tip": "Follow sidewalk towards ticket counters",
+      "city": "Delhi"
+    }
+  ]
+}
