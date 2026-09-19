@@ -3625,6 +3625,386 @@
         "Famous",
         "Local"
       ]
+    },
+    {
+      "id": "rst_nube4",
+      "name": "Sita Ram Diwan Chand",
+      "city": "Delhi",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 150,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/delhi.webp",
+      "dish": "Chole Bhature",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_fiuc9b",
+      "name": "Natraj Dahi Bhalle Wala",
+      "city": "Delhi",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 80,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/delhi.webp",
+      "dish": "Aloo Tikki",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_j65mwl",
+      "name": "Karim's",
+      "city": "Delhi",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 600,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/delhi.webp",
+      "dish": "Kebab Platter",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_1z7dv",
+      "name": "Laxmi Mishthan Bhandar",
+      "city": "Jaipur",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 250,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/jaipur.webp",
+      "dish": "Ghevar",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_9ndw3l",
+      "name": "Handi Restaurant",
+      "city": "Jaipur",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 550,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/jaipur.webp",
+      "dish": "Laal Maas",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_hdn27i",
+      "name": "Martin's Corner",
+      "city": "Goa",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 450,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/goa.webp",
+      "dish": "Prawn Balchao",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_fa0wxd",
+      "name": "Local Bakery",
+      "city": "Goa",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 120,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/goa.webp",
+      "dish": "Goan Sausage Pao",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_5m0169",
+      "name": "Deena Chaat Bhandar",
+      "city": "Varanasi",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 60,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/varanasi.webp",
+      "dish": "Tamatar Chaat",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_fceut",
+      "name": "Blue Lassi Shop",
+      "city": "Varanasi",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 90,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/varanasi.webp",
+      "dish": "Lassi",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_ojtjuq",
+      "name": "Deviram Sweets",
+      "city": "Agra",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 70,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/agra.webp",
+      "dish": "Bedmi Puri",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_rll3wf",
+      "name": "Local Toddy Shop",
+      "city": "Kerala",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 100,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/kerala.webp",
+      "dish": "Puttu and Kadala",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_0awho",
+      "name": "Paragon Restaurant",
+      "city": "Kerala",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 300,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/kerala.webp",
+      "dish": "Malabar Biryani",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_ss7xp",
+      "name": "Aaswad",
+      "city": "Mumbai",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 110,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/mumbai.webp",
+      "dish": "Misal Pav",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_51j8s",
+      "name": "Chowpatty Beach Stalls",
+      "city": "Mumbai",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 50,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/mumbai.webp",
+      "dish": "Bhel Puri",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_pn2d8d",
+      "name": "Kesar Da Dhaba",
+      "city": "Amritsar",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 200,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/amritsar.webp",
+      "dish": "Makki di Roti Sarson da Saag",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_25cfqh",
+      "name": "Makhan Fish",
+      "city": "Amritsar",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 400,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/amritsar.webp",
+      "dish": "Amritsari Fish",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_s3vjv8",
+      "name": "Shiv Shakti Sweets",
+      "city": "Udaipur",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 40,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/udaipur.webp",
+      "dish": "Mirchi Bada",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_wz7tw",
+      "name": "Ganga View Cafe",
+      "city": "Rishikesh",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 60,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/rishikesh.webp",
+      "dish": "Masala Chai & Samosa",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
+    },
+    {
+      "id": "rst_iwq58s",
+      "name": "Himachali Dhaba",
+      "city": "Manali",
+      "cuisine": "Local Cuisine",
+      "rating": 4.8,
+      "location": "Famous Area",
+      "price": 150,
+      "veg": true,
+      "pureVeg": false,
+      "jain": false,
+      "image": "/images/manali.webp",
+      "dish": "Siddu",
+      "hours": "10 AM - 10 PM",
+      "tags": [
+        "Famous",
+        "Local",
+        "Must Try"
+      ]
     }
   ],
   "experiences": [
