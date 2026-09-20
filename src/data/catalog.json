@@ -364,7 +364,7 @@
       "duration": 120,
       "description": "Houses the Maharaja Sawai Man Singh II Museum exhibiting royal robes, pashmina shawls, miniature paintings, and the world's largest sterling silver vessels.",
       "overview": "The sprawling royal complex featuring the Chandra Mahal, Mubarak Mahal, and the famous Peacock Gate courtyards.",
-      "image": "/images/jaipur.webp",
+      "image": "/images/City Palace Jaipur.webp",
       "hidden": false,
       "indoor": true,
       "interests": [
@@ -391,7 +391,7 @@
       "duration": 90,
       "description": "Built by Maharaja Sawai Jai Singh II in 1734. The Madhavendra Bhawan features nine identical suites for royal queens connected by open corridors.",
       "overview": "Perched on the edge of the Aravalli Hills, providing breathtaking golden-hour panoramic views of the entire illuminated Pink City.",
-      "image": "/images/jaipur.webp",
+      "image": "/images/Nahargarh Fort & Sunset Point.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -417,7 +417,7 @@
       "duration": 90,
       "description": "Walk through the terraced terracotta pink colonnades. Savor LMB (Laxmi Misthan Bhandar) authentic Ghewar and Pyaz Kachoris.",
       "overview": "The world-famous jewelry and artisan gemstone bazaar, along with authentic Bandhani tie-dye sarees and Mojari leather footwear.",
-      "image": "/images/jaipur.webp",
+      "image": "/images/Johari Bazaar & Bapu Bazaar.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -444,7 +444,7 @@
       "duration": 120,
       "description": "Gentle Arabian sea waves lined with relaxed wooden sunbeds, fresh tropical coconut water and evening acoustic music.",
       "overview": "Lively sandy coastline famous for thrilling parasailing, dolphin boat trips, beach shacks and sunset views.",
-      "image": "/images/goa.webp",
+      "image": "/images/Baga Beach & Calangute Shore.jpeg",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -470,7 +470,7 @@
       "duration": 90,
       "description": "Built to protect against Dutch ships and the Marathas. Features a four-story freshwater reservoir that could hold 2.3 million gallons.",
       "overview": "Grand 1612 Portuguese fortress overlooking the vast Arabian Sea and the Mandovi river confluence.",
-      "image": "/images/goa.webp",
+      "image": "/images/Fort Aguada & Lighthouse.jpg",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -523,7 +523,7 @@
       "duration": 180,
       "description": "Reached via 4x4 open safari jeeps through Bhagwan Mahavir Wildlife Sanctuary with natural swimming pools.",
       "overview": "Massive 310-metre high four-tiered waterfall forming a sea of white milk amidst lush Western Ghats tropical forest.",
-      "image": "/images/goa.webp",
+      "image": "/images/Dudhsagar Waterfalls & Spice Trail.jpg",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -632,7 +632,7 @@
       "duration": 150,
       "description": "Set within a formal Charbagh Persian garden with reflecting pool, inlaid with semi-precious pietra dura stones and Quranic calligraphy.",
       "overview": "The world's most renowned monument to eternal love, crafted entirely from white Makrana marble by Mughal Emperor Shah Jahan.",
-      "image": "/images/agra.webp",
+      "image": "/images/tAj mahal.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -659,7 +659,7 @@
       "duration": 120,
       "description": "Contains the Diwan-i-Khas, Jahangiri Mahal, Sheesh Mahal, and the Musamman Burj octagonal tower with clear view of Taj Mahal.",
       "overview": "The powerful 94-acre fortress residence of Mughal emperors Akbar, Jahangir, and Shah Jahan.",
-      "image": "/images/agra.webp",
+      "image": "/images/Agra Fort.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -686,7 +686,7 @@
       "duration": 240,
       "description": "Sail on a traditional Kettuvallam eco-friendly houseboat while enjoying authentic Karimeen Pollichathu, Kerala red rice, and tender coconut.",
       "overview": "Tranquil network of interconnected canals, lagoons, and lakes lined with swaying coconut palms and paddy fields.",
-      "image": "/images/kerala.webp",
+      "image": "/images/Alleppey Backwaters & Houseboat Cruise.avif",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -712,7 +712,7 @@
       "duration": 90,
       "description": "Walk past St. Francis Church (where Vasco da Gama was buried), Santa Cruz Cathedral Basilica, and Jew Town antique shops.",
       "overview": "Historic seaside town featuring 14th-century cantilevered Chinese fishing nets (Cheena Vala), colonial spice warehouses, and street cafes.",
-      "image": "/images/kerala.webp",
+      "image": "/images/Fort Kochi & Chinese Fishing Nets.jpg",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -739,7 +739,7 @@
       "duration": 180,
       "description": "Surrounded by snow-capped Himalayan peaks and glaciers, with the world's longest highway tunnel above 10,000 feet.",
       "overview": "Spectacular mountain valley offering paragliding, zorbing, snow skiing, and Atal Tunnel high-altitude connectivity.",
-      "image": "/images/manali.webp",
+      "image": "/images/Solang Valley & Rohtang Pass.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -765,7 +765,7 @@
       "duration": 60,
       "description": "Dedicated to Hidimba Devi, wife of Bhima. Features intricately carved timber eaves and wooden animals.",
       "overview": "Unique 1553 wooden pagoda temple nestled inside towering cedar and deodar pine forests (Dhungri Van Vihar).",
-      "image": "/images/manali.webp",
+      "image": "/images/Hadimba Devi Temple & Pine Forest.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -792,7 +792,7 @@
       "duration": 150,
       "description": "A magnificent fusion of Rajasthani and Mughal architectural styles featuring the Mor Chowk (Peacock Courtyard) and crystal gallery.",
       "overview": "Rajasthan's largest royal palace complex, built over 400 years by the Mewar dynasty on the eastern bank of Lake Pichola.",
-      "image": "/images/udaipur.webp",
+      "image": "/images/City Palace Udaipur & Lake Pichola.jpg",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -847,7 +847,7 @@
       "duration": 90,
       "description": "High-stepping marches, patriotic cheers from thousands of spectators, and formal closing of the international border gates.",
       "overview": "The electrifying daily military parade and flag-lowering ceremony conducted by the Indian BSF and Pakistan Rangers.",
-      "image": "/images/amritsar.webp",
+      "image": "/images/Attari-Wagah Border Beating Retreat Ceremony.avif",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -901,7 +901,7 @@
       "duration": 180,
       "description": "Includes cliff jumping, body surfing in gentle eddies, and breathtaking views of Himalayan gorges.",
       "overview": "World-class white water rafting navigating famous rapids like Roller Coaster, Golf Course, and Club House on the emerald Ganges.",
-      "image": "/images/rishikesh.webp",
+      "image": "/images/Shivpuri to Rishikesh River Rafting.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -927,7 +927,7 @@
       "duration": 60,
       "description": "Designed by George Wittet in Indo-Saracenic style, standing opposite the legendary Taj Mahal Palace Hotel with ferry boats to Elephanta Caves.",
       "overview": "Iconic 26-metre basalt arch monument erected in 1924 overlooking the Arabian Sea in South Mumbai.",
-      "image": "/images/mumbai.webp",
+      "image": "/images/Gateway of India & Taj Mahal Palace.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -980,7 +980,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/delhi.webp",
+      "image": "/images/Lotus Temple.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1015,31 +1015,6 @@
       "source": "Sample Data"
     },
     {
-      "id": "plc_rsdso",
-      "name": "Sunder Nursery",
-      "city": "Delhi",
-      "category": "Hidden Gem",
-      "subcategory": "Secret",
-      "address": "Delhi Outskirts",
-      "lat": 0,
-      "lng": 0,
-      "rating": 4.8,
-      "reviews": "500",
-      "hours": "24/7",
-      "cost": 0,
-      "duration": 60,
-      "description": "A quiet, unknown place.",
-      "overview": "Hidden away from tourists.",
-      "image": "/images/delhi.webp",
-      "hidden": true,
-      "indoor": false,
-      "interests": [
-        "Nature"
-      ],
-      "accessibility": "Not accessible",
-      "source": "Sample Data"
-    },
-    {
       "id": "plc_bcvbvt",
       "name": "Amer Fort",
       "city": "Jaipur",
@@ -1055,7 +1030,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/jaipur.webp",
+      "image": "/images/Amer Fort.jpg",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1080,7 +1055,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/jaipur.webp",
+      "image": "/images/Hawa Mahal.jpg",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1105,7 +1080,7 @@
       "duration": 60,
       "description": "A quiet, unknown place.",
       "overview": "Hidden away from tourists.",
-      "image": "/images/jaipur.webp",
+      "image": "/images/Panna Meena ka Kund.webp",
       "hidden": true,
       "indoor": false,
       "interests": [
@@ -1130,7 +1105,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/goa.webp",
+      "image": "/images/Baga Beach.jpg",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1155,7 +1130,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/goa.webp",
+      "image": "/images/Basilica of Bom Jesus.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1180,7 +1155,7 @@
       "duration": 60,
       "description": "A quiet, unknown place.",
       "overview": "Hidden away from tourists.",
-      "image": "/images/goa.webp",
+      "image": "/images/Dudhsagar Waterfalls Trek.webp",
       "hidden": true,
       "indoor": false,
       "interests": [
@@ -1265,56 +1240,6 @@
       "source": "Sample Data"
     },
     {
-      "id": "plc_69b68a",
-      "name": "Taj Mahal",
-      "city": "Agra",
-      "category": "Attraction",
-      "subcategory": "Famous",
-      "address": "Agra Central",
-      "lat": 0,
-      "lng": 0,
-      "rating": 4.5,
-      "reviews": "10K",
-      "hours": "9:00 AM - 5:00 PM",
-      "cost": 100,
-      "duration": 120,
-      "description": "A famous landmark.",
-      "overview": "Beautiful spot.",
-      "image": "/images/agra.webp",
-      "hidden": false,
-      "indoor": false,
-      "interests": [
-        "Culture"
-      ],
-      "accessibility": "Wheelchair-friendly",
-      "source": "Sample Data"
-    },
-    {
-      "id": "plc_jcsl6b",
-      "name": "Agra Fort",
-      "city": "Agra",
-      "category": "Attraction",
-      "subcategory": "Famous",
-      "address": "Agra Central",
-      "lat": 0,
-      "lng": 0,
-      "rating": 4.5,
-      "reviews": "10K",
-      "hours": "9:00 AM - 5:00 PM",
-      "cost": 100,
-      "duration": 120,
-      "description": "A famous landmark.",
-      "overview": "Beautiful spot.",
-      "image": "/images/agra.webp",
-      "hidden": false,
-      "indoor": false,
-      "interests": [
-        "Culture"
-      ],
-      "accessibility": "Wheelchair-friendly",
-      "source": "Sample Data"
-    },
-    {
       "id": "plc_gkndel",
       "name": "Mehtab Bagh Sunset",
       "city": "Agra",
@@ -1330,7 +1255,7 @@
       "duration": 60,
       "description": "A quiet, unknown place.",
       "overview": "Hidden away from tourists.",
-      "image": "/images/agra.webp",
+      "image": "/images/Mehtab Bagh Sunset.webp",
       "hidden": true,
       "indoor": false,
       "interests": [
@@ -1355,7 +1280,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/kerala.webp",
+      "image": "/images/Munnar Tea Gardens.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1405,7 +1330,7 @@
       "duration": 60,
       "description": "A quiet, unknown place.",
       "overview": "Hidden away from tourists.",
-      "image": "/images/kerala.webp",
+      "image": "/images/Silent Valley National Park.jpg",
       "hidden": true,
       "indoor": false,
       "interests": [
@@ -1430,7 +1355,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/mumbai.webp",
+      "image": "/images/Gateway of India.jpg",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1455,7 +1380,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/mumbai.webp",
+      "image": "/images/Marine Drive.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1480,7 +1405,7 @@
       "duration": 60,
       "description": "A quiet, unknown place.",
       "overview": "Hidden away from tourists.",
-      "image": "/images/mumbai.webp",
+      "image": "/images/Banganga Tank.jpg",
       "hidden": true,
       "indoor": false,
       "interests": [
@@ -1505,7 +1430,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/amritsar.webp",
+      "image": "/images/Golden Temple.jpg",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1530,7 +1455,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/amritsar.webp",
+      "image": "/images/Jallianwala Bagh.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1555,7 +1480,7 @@
       "duration": 60,
       "description": "A quiet, unknown place.",
       "overview": "Hidden away from tourists.",
-      "image": "/images/amritsar.webp",
+      "image": "/images/Wagah Border Ceremony.avif",
       "hidden": true,
       "indoor": false,
       "interests": [
@@ -1580,7 +1505,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/udaipur.webp",
+      "image": "/images/City Palace.jpg",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1605,7 +1530,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/udaipur.webp",
+      "image": "/images/Lake Pichola.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1630,7 +1555,7 @@
       "duration": 60,
       "description": "A quiet, unknown place.",
       "overview": "Hidden away from tourists.",
-      "image": "/images/udaipur.webp",
+      "image": "/images/Ahar Cenotaphs.webp",
       "hidden": true,
       "indoor": false,
       "interests": [
@@ -1655,7 +1580,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/rishikesh.webp",
+      "image": "/images/Laxman Jhula.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1680,7 +1605,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/rishikesh.webp",
+      "image": "/images/Triveni Ghat.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1705,7 +1630,7 @@
       "duration": 60,
       "description": "A quiet, unknown place.",
       "overview": "Hidden away from tourists.",
-      "image": "/images/rishikesh.webp",
+      "image": "/images/Beatles Ashram.jpg",
       "hidden": true,
       "indoor": false,
       "interests": [
@@ -1730,7 +1655,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/manali.webp",
+      "image": "/images/Rohtang Pass.webp",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1755,7 +1680,7 @@
       "duration": 120,
       "description": "A famous landmark.",
       "overview": "Beautiful spot.",
-      "image": "/images/manali.webp",
+      "image": "/images/Solang Valley.jpg",
       "hidden": false,
       "indoor": false,
       "interests": [
@@ -1780,7 +1705,7 @@
       "duration": 60,
       "description": "A quiet, unknown place.",
       "overview": "Hidden away from tourists.",
-      "image": "/images/manali.webp",
+      "image": "/images/Old Manali Village.webp",
       "hidden": true,
       "indoor": false,
       "interests": [
@@ -1799,7 +1724,7 @@
       "price": 450,
       "rating": 4.5,
       "location": "Paharganj (200m from New Delhi Railway Station)",
-      "image": "/images/delhi.webp",
+      "image": "/images/Sri Ram Marwari Dharamshala & Bhavan.webp",
       "amenities": [
         "Pure Veg Bhojanalaya",
         "Jain Food",
@@ -1830,7 +1755,7 @@
       "price": 900,
       "rating": 4.8,
       "location": "Sri Aurobindo Marg, Hauz Khas / Green Park",
-      "image": "/images/delhi.webp",
+      "image": "/images/Sri Aurobindo Ashram Guest House.jpg",
       "amenities": [
         "Peaceful Meditation Hall",
         "Organic Satvik Meals",
@@ -1860,7 +1785,7 @@
       "price": 799,
       "rating": 4.7,
       "location": "Opp. New Delhi Railway Station, Paharganj",
-      "image": "/images/delhi.webp",
+      "image": "/images/Zostel Delhi (Backpacker Hostel).jpg",
       "amenities": [
         "Female Dorms",
         "High-Speed WiFi",
@@ -1891,7 +1816,7 @@
       "price": 6200,
       "rating": 4.9,
       "location": "Gali Guliyan, Jama Masjid, Old Delhi",
-      "image": "/images/delhi.webp",
+      "image": "/images/Haveli Dharampura (UNESCO Heritage Stay).webp",
       "amenities": [
         "Kite Flying Rooftop",
         "Kathak Evenings",
@@ -1921,7 +1846,7 @@
       "price": 1800,
       "rating": 4.8,
       "location": "Karol Bagh (Near Metro Station)",
-      "image": "/images/delhi.webp",
+      "image": "/images/Prakash Family Homestay & Bed & Breakfast.jpg",
       "amenities": [
         "Home Cooked Breakfast",
         "Elder Friendly Lift",
@@ -1951,7 +1876,7 @@
       "price": 3200,
       "rating": 4.6,
       "location": "Connaught Place, Central Delhi",
-      "image": "/images/delhi.webp",
+      "image": "/images/The Connaught, New Delhi - IHCL SeleQtions.jpg",
       "amenities": [
         "WiFi",
         "Breakfast",
@@ -1983,7 +1908,7 @@
       "price": 7500,
       "rating": 4.8,
       "location": "Janpath, Connaught Place",
-      "image": "/images/delhi.webp",
+      "image": "/images/The Imperial Hotel (Colonial Heritage Luxury).webp",
       "amenities": [
         "Museum Quality Art",
         "Multiple Fine Dining",
@@ -2013,7 +1938,7 @@
       "price": 4800,
       "rating": 4.8,
       "location": "Sansar Chandra Road, Sindhi Camp, Jaipur",
-      "image": "/images/jaipur.webp",
+      "image": "/images/Alsisar Haveli - Heritage Hotel.jpg",
       "amenities": [
         "Heritage Courtyard Pool",
         "Traditional Rajasthani Thali",
@@ -2043,7 +1968,7 @@
       "price": 500,
       "rating": 4.5,
       "location": "Near Railway Station, Gopalbari, Jaipur",
-      "image": "/images/jaipur.webp",
+      "image": "/images/Shri Khandelwal Vaishya Bhavan & Dharamshala.webp",
       "amenities": [
         "Pure Satvik Dining",
         "Jain Food",
@@ -2073,7 +1998,7 @@
       "price": 3600,
       "rating": 4.7,
       "location": "Candolim Beach Road, North Goa",
-      "image": "/images/goa.webp",
+      "image": "/images/Santana Beach Resort & Heritage Villas.webp",
       "amenities": [
         "Direct Beach Access",
         "Tropical Pool",
@@ -2133,7 +2058,7 @@
       "price": 1600,
       "rating": 4.5,
       "location": "Agra central area (sample)",
-      "image": "/images/agra.webp",
+      "image": "/images/Agra Homestay (sample listing).webp",
       "amenities": [
         "Wi-Fi",
         "RO water",
@@ -2159,7 +2084,7 @@
       "price": 650,
       "rating": 4.5,
       "location": "Agra central area (sample)",
-      "image": "/images/agra.webp",
+      "image": "/images/Agra Hostel (sample listing).webp",
       "amenities": [
         "Shared lounge",
         "Lockers",
@@ -2185,7 +2110,7 @@
       "price": 1600,
       "rating": 4.5,
       "location": "Kerala central area (sample)",
-      "image": "/images/kerala.webp",
+      "image": "/images/Kerala Homestay (sample listing).avif",
       "amenities": [
         "Wi-Fi",
         "RO water",
@@ -2211,7 +2136,7 @@
       "price": 650,
       "rating": 4.5,
       "location": "Kerala central area (sample)",
-      "image": "/images/kerala.webp",
+      "image": "/images/Kerala Hostel (sample listing).jpg",
       "amenities": [
         "Shared lounge",
         "Lockers",
@@ -2237,7 +2162,7 @@
       "price": 1600,
       "rating": 4.5,
       "location": "Manali central area (sample)",
-      "image": "/images/manali.webp",
+      "image": "/images/Manali Homestay (sample listing).avif",
       "amenities": [
         "Wi-Fi",
         "RO water",
@@ -2263,7 +2188,7 @@
       "price": 650,
       "rating": 4.5,
       "location": "Manali central area (sample)",
-      "image": "/images/manali.webp",
+      "image": "/images/Manali Hostel (sample listing).jpg",
       "amenities": [
         "Shared lounge",
         "Lockers",
@@ -2289,7 +2214,7 @@
       "price": 1600,
       "rating": 4.5,
       "location": "Amritsar central area (sample)",
-      "image": "/images/amritsar.webp",
+      "image": "/images/Amritsar Homestay (sample listing).webp",
       "amenities": [
         "Wi-Fi",
         "RO water",
@@ -2315,7 +2240,7 @@
       "price": 650,
       "rating": 4.5,
       "location": "Amritsar central area (sample)",
-      "image": "/images/amritsar.webp",
+      "image": "/images/Amritsar Hostel (sample listing).webp",
       "amenities": [
         "Shared lounge",
         "Lockers",
@@ -2341,7 +2266,7 @@
       "price": 1600,
       "rating": 4.5,
       "location": "Rishikesh central area (sample)",
-      "image": "/images/rishikesh.webp",
+      "image": "/images/Rishikesh Homestay (sample listing).jpg",
       "amenities": [
         "Wi-Fi",
         "RO water",
@@ -2367,7 +2292,7 @@
       "price": 650,
       "rating": 4.5,
       "location": "Rishikesh central area (sample)",
-      "image": "/images/rishikesh.webp",
+      "image": "/images/Rishikesh Hostel (sample listing).webp",
       "amenities": [
         "Shared lounge",
         "Lockers",
@@ -2393,7 +2318,7 @@
       "price": 1600,
       "rating": 4.5,
       "location": "Mumbai central area (sample)",
-      "image": "/images/mumbai.webp",
+      "image": "/images/Mumbai Homestay (sample listing).webp",
       "amenities": [
         "Wi-Fi",
         "RO water",
@@ -2419,7 +2344,7 @@
       "price": 650,
       "rating": 4.5,
       "location": "Mumbai central area (sample)",
-      "image": "/images/mumbai.webp",
+      "image": "/images/Mumbai Hostel (sample listing).webp",
       "amenities": [
         "Shared lounge",
         "Lockers",
@@ -2445,7 +2370,7 @@
       "price": 1600,
       "rating": 4.5,
       "location": "Udaipur central area (sample)",
-      "image": "/images/udaipur.webp",
+      "image": "/images/Udaipur Homestay (sample listing).jpg",
       "amenities": [
         "Wi-Fi",
         "RO water",
@@ -2471,7 +2396,7 @@
       "price": 650,
       "rating": 4.5,
       "location": "Udaipur central area (sample)",
-      "image": "/images/udaipur.webp",
+      "image": "/images/Udaipur Hostel (sample listing).webp",
       "amenities": [
         "Shared lounge",
         "Lockers",
@@ -2497,7 +2422,7 @@
       "price": 5000,
       "rating": 4.9,
       "location": "City Center",
-      "image": "/images/delhi.webp",
+      "image": "/images/The Leela Palace.jpg",
       "amenities": [
         "Pool",
         "Spa",
@@ -2523,7 +2448,7 @@
       "price": 1000,
       "rating": 4.2,
       "location": "City Center",
-      "image": "/images/delhi.webp",
+      "image": "/images/Paharganj Backpacker.webp",
       "amenities": [
         "Breakfast"
       ],
@@ -2547,7 +2472,7 @@
       "price": 5000,
       "rating": 4.9,
       "location": "City Center",
-      "image": "/images/jaipur.webp",
+      "image": "/images/Rambagh Palace.webp",
       "amenities": [
         "Pool",
         "Spa",
@@ -2573,7 +2498,7 @@
       "price": 1000,
       "rating": 4.2,
       "location": "City Center",
-      "image": "/images/jaipur.webp",
+      "image": "/images/Local Haveli Stay.jpg",
       "amenities": [
         "Breakfast"
       ],
@@ -2597,7 +2522,7 @@
       "price": 5000,
       "rating": 4.9,
       "location": "City Center",
-      "image": "/images/goa.webp",
+      "image": "/images/Taj Exotica Resort.webp",
       "amenities": [
         "Pool",
         "Spa",
@@ -2623,7 +2548,7 @@
       "price": 1000,
       "rating": 4.2,
       "location": "City Center",
-      "image": "/images/goa.webp",
+      "image": "/images/Beachfront Shack.webp",
       "amenities": [
         "Breakfast"
       ],
@@ -2697,7 +2622,7 @@
       "price": 5000,
       "rating": 4.9,
       "location": "City Center",
-      "image": "/images/agra.webp",
+      "image": "/images/The Oberoi Amarvilas.webp",
       "amenities": [
         "Pool",
         "Spa",
@@ -2723,7 +2648,7 @@
       "price": 1000,
       "rating": 4.2,
       "location": "City Center",
-      "image": "/images/agra.webp",
+      "image": "/images/Taj View Hotel.webp",
       "amenities": [
         "Breakfast"
       ],
@@ -2747,7 +2672,7 @@
       "price": 5000,
       "rating": 4.9,
       "location": "City Center",
-      "image": "/images/kerala.webp",
+      "image": "/images/Kumarakom Lake Resort.png",
       "amenities": [
         "Pool",
         "Spa",
@@ -2773,7 +2698,7 @@
       "price": 1000,
       "rating": 4.2,
       "location": "City Center",
-      "image": "/images/kerala.webp",
+      "image": "/images/Traditional Houseboat.webp",
       "amenities": [
         "Breakfast"
       ],
@@ -2797,7 +2722,7 @@
       "price": 5000,
       "rating": 4.9,
       "location": "City Center",
-      "image": "/images/mumbai.webp",
+      "image": "/images/Taj Mahal Palace.jpg",
       "amenities": [
         "Pool",
         "Spa",
@@ -2823,7 +2748,7 @@
       "price": 1000,
       "rating": 4.2,
       "location": "City Center",
-      "image": "/images/mumbai.webp",
+      "image": "/images/Colaba Boutique Hotel.webp",
       "amenities": [
         "Breakfast"
       ],
@@ -2847,7 +2772,7 @@
       "price": 5000,
       "rating": 4.9,
       "location": "City Center",
-      "image": "/images/amritsar.webp",
+      "image": "/images/Taj Swarna.jpg",
       "amenities": [
         "Pool",
         "Spa",
@@ -2873,7 +2798,7 @@
       "price": 1000,
       "rating": 4.2,
       "location": "City Center",
-      "image": "/images/amritsar.webp",
+      "image": "/images/Heritage Inn.avif",
       "amenities": [
         "Breakfast"
       ],
@@ -2897,7 +2822,7 @@
       "price": 5000,
       "rating": 4.9,
       "location": "City Center",
-      "image": "/images/udaipur.webp",
+      "image": "/images/Taj Lake Palace.webp",
       "amenities": [
         "Pool",
         "Spa",
@@ -2923,7 +2848,7 @@
       "price": 1000,
       "rating": 4.2,
       "location": "City Center",
-      "image": "/images/udaipur.webp",
+      "image": "/images/Oberoi Udaivilas.webp",
       "amenities": [
         "Breakfast"
       ],
@@ -2947,7 +2872,7 @@
       "price": 5000,
       "rating": 4.9,
       "location": "City Center",
-      "image": "/images/rishikesh.webp",
+      "image": "/images/Ananda in the Himalayas.avif",
       "amenities": [
         "Pool",
         "Spa",
@@ -2973,7 +2898,7 @@
       "price": 1000,
       "rating": 4.2,
       "location": "City Center",
-      "image": "/images/rishikesh.webp",
+      "image": "/images/Ganga Kinare.jpg",
       "amenities": [
         "Breakfast"
       ],
@@ -2997,7 +2922,7 @@
       "price": 5000,
       "rating": 4.9,
       "location": "City Center",
-      "image": "/images/manali.webp",
+      "image": "/images/Span Resort and Spa.webp",
       "amenities": [
         "Pool",
         "Spa",
@@ -3023,7 +2948,7 @@
       "price": 1000,
       "rating": 4.2,
       "location": "City Center",
-      "image": "/images/manali.webp",
+      "image": "/images/Apple Orchard Homestay.avif",
       "amenities": [
         "Breakfast"
       ],
@@ -3115,7 +3040,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": true,
-      "image": "/images/delhi.webp",
+      "image": "/images/Haldiram's Chandni Chowk.webp",
       "dish": "Royal Raj Kachori",
       "hours": "9:00 AM – 10:00 PM",
       "tags": [
@@ -3135,7 +3060,7 @@
       "veg": true,
       "pureVeg": true,
       "jain": false,
-      "image": "/images/jaipur.webp",
+      "image": "/images/LMB (Laxmi Misthan Bhandar).webp",
       "dish": "Maharaja Thali (Dal Baati Churma, Ker Sangri & Paneer Ghewar)",
       "hours": "8:00 AM – 11:00 PM",
       "tags": [
@@ -3156,7 +3081,7 @@
       "veg": true,
       "pureVeg": true,
       "jain": false,
-      "image": "/images/jaipur.webp",
+      "image": "/images/Rawat Misthan Bhandar.webp",
       "dish": "Crispy Golden Pyaaz Kachori & Mirchi Vada",
       "hours": "6:00 AM – 10:30 PM",
       "tags": [
@@ -3177,7 +3102,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/goa.webp",
+      "image": "/images/Fisherman's Wharf & Heritage Shack.jpg",
       "dish": "Goan Fish Curry Thali, Paneer Xacuti & Bebinca dessert",
       "hours": "12:00 PM – 11:30 PM",
       "tags": [
@@ -3219,7 +3144,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/delhi.webp",
+      "image": "/images/Paranthe Wali Gali.jpg",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3238,7 +3163,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/delhi.webp",
+      "image": "/images/Butter Chicken.jpg",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3257,7 +3182,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/jaipur.webp",
+      "image": "/images/Dal Bati Churma at Chokhi Dhani.jpeg",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3276,7 +3201,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/jaipur.webp",
+      "image": "/images/Pyaz Kachori at Rawat.jpg",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3295,7 +3220,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/goa.webp",
+      "image": "/images/Goan Fish Curry.webp",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3314,7 +3239,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/goa.webp",
+      "image": "/images/Bebinca Dessert.webp",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3371,7 +3296,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/agra.webp",
+      "image": "/images/Panchhi Petha.jpg",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3390,7 +3315,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/agra.webp",
+      "image": "/images/Mughlai Kebab.webp",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3409,7 +3334,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/kerala.webp",
+      "image": "/images/Karimeen Pollichathu.webp",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3428,7 +3353,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/kerala.webp",
+      "image": "/images/Appam with Stew.jpg",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3447,7 +3372,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/mumbai.webp",
+      "image": "/images/Vada Pav at Ashok.webp",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3466,7 +3391,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/mumbai.webp",
+      "image": "/images/Pav Bhaji at Sardar.jpg",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3485,7 +3410,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/amritsar.webp",
+      "image": "/images/Amritsari Kulcha.avif",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3523,7 +3448,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/udaipur.webp",
+      "image": "/images/Laal Maas.webp",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3542,7 +3467,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/udaipur.webp",
+      "image": "/images/Dal Panzratani.webp",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3561,7 +3486,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/rishikesh.webp",
+      "image": "/images/Chotiwala Thali.jpg",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3580,7 +3505,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/rishikesh.webp",
+      "image": "/images/Ayurvedic Cafe.jpg",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3599,7 +3524,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/manali.webp",
+      "image": "/images/Himachali Dham.cms",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3618,7 +3543,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/manali.webp",
+      "image": "/images/Trout Fish.jpg",
       "dish": "Signature Local Dish",
       "hours": "11 AM - 11 PM",
       "tags": [
@@ -3637,7 +3562,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/delhi.webp",
+      "image": "/images/Sita Ram Diwan Chand.webp",
       "dish": "Chole Bhature",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3657,7 +3582,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/delhi.webp",
+      "image": "/images/Natraj Dahi Bhalle Wala.jpg",
       "dish": "Aloo Tikki",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3677,7 +3602,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/delhi.webp",
+      "image": "/images/Karim's.avif",
       "dish": "Kebab Platter",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3697,7 +3622,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/jaipur.webp",
+      "image": "/images/Laxmi Mishthan Bhandar.jpg",
       "dish": "Ghevar",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3717,7 +3642,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/jaipur.webp",
+      "image": "/images/Handi Restaurant.png",
       "dish": "Laal Maas",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3737,7 +3662,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/goa.webp",
+      "image": "/images/Martin's Corner.jpg",
       "dish": "Prawn Balchao",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3757,7 +3682,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/goa.webp",
+      "image": "/images/Local Bakery.webp",
       "dish": "Goan Sausage Pao",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3817,7 +3742,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/agra.webp",
+      "image": "/images/Deviram Sweets.webp",
       "dish": "Bedmi Puri",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3837,7 +3762,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/kerala.webp",
+      "image": "/images/Local Toddy Shop.webp",
       "dish": "Puttu and Kadala",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3857,7 +3782,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/kerala.webp",
+      "image": "/images/Paragon Restaurant.avif",
       "dish": "Malabar Biryani",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3877,7 +3802,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/mumbai.webp",
+      "image": "/images/Aaswad.webp",
       "dish": "Misal Pav",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3897,7 +3822,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/mumbai.webp",
+      "image": "/images/Chowpatty Beach Stalls.jpg",
       "dish": "Bhel Puri",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3917,7 +3842,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/amritsar.webp",
+      "image": "/images/Kesar Da Dhaba.webp",
       "dish": "Makki di Roti Sarson da Saag",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3937,7 +3862,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/amritsar.webp",
+      "image": "/images/Makhan Fish.webp",
       "dish": "Amritsari Fish",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3957,7 +3882,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/udaipur.webp",
+      "image": "/images/Shiv Shakti Sweets.jpg",
       "dish": "Mirchi Bada",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3977,7 +3902,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/rishikesh.webp",
+      "image": "/images/Ganga View Cafe.webp",
       "dish": "Masala Chai & Samosa",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -3997,7 +3922,7 @@
       "veg": true,
       "pureVeg": false,
       "jain": false,
-      "image": "/images/manali.webp",
+      "image": "/images/Himachali Dhaba.webp",
       "dish": "Siddu",
       "hours": "10 AM - 10 PM",
       "tags": [
@@ -4019,33 +3944,7 @@
       "rating": 4.9,
       "location": "Chandni Chowk & Khari Baoli",
       "description": "Ride custom eco-rickshaws through 350-year-old narrow haveli alleys with hidden rooftop spice viewpoints.",
-      "image": "/images/delhi.webp"
-    },
-    {
-      "id": "exp_sufi_nizamuddin",
-      "title": "Nizamuddin Basti Evening Sufi Qawwali Experience",
-      "city": "Delhi",
-      "category": "Spiritual & Music",
-      "host": "Nizamuddin Cultural Heritage Trust",
-      "duration": "2 hr",
-      "price": 450,
-      "rating": 4.8,
-      "location": "Nizamuddin Dargah Courtyard",
-      "description": "Immerse in soulful 700-year-old musical traditions sung by direct descendants of Amir Khusro.",
-      "image": "/images/delhi.webp"
-    },
-    {
-      "id": "exp_art_walk_lodhi",
-      "title": "Curated Lodhi Colony Street Art Photography Tour",
-      "city": "Delhi",
-      "category": "Art & Photography",
-      "host": "St+art India Resident Artist",
-      "duration": "1.5 hr",
-      "price": 600,
-      "rating": 4.7,
-      "location": "Lodhi Art District",
-      "description": "Discover the stories, hidden symbols, and socio-cultural themes behind 50+ iconic public murals.",
-      "image": "/images/delhi.webp"
+      "image": "/images/Old Delhi Heritage Rickshaw & Spice Trail.webp"
     },
     {
       "id": "exp_amer_elephant_craft",
@@ -4058,7 +3957,7 @@
       "rating": 4.9,
       "location": "Amer Old Town, Jaipur",
       "description": "Carve wooden stamps, experience natural indigo block printing, and drink traditional clay-pot Chai.",
-      "image": "/images/jaipur.webp"
+      "image": "/images/Amer Village Block-Printing & Heritage Walk.cms"
     },
     {
       "id": "exp_mandovi_sunset_cruise",
@@ -4071,7 +3970,7 @@
       "rating": 4.8,
       "location": "Santa Monica Jetty, Panaji",
       "description": "Live Goan Dekhni folk dance, sunset over Arabian sea, and historical river commentary.",
-      "image": "/images/goa.webp"
+      "image": "/images/Mandovi River Sunset Cruise & Folk Dance.webp"
     },
     {
       "id": "exp_sunrise_boat_varanasi",
@@ -4087,110 +3986,6 @@
       "image": "/images/varanasi.webp"
     },
     {
-      "id": "exp_8j97mf",
-      "title": "Street Food Tour",
-      "city": "Delhi",
-      "category": "Adventure",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/delhi.webp"
-    },
-    {
-      "id": "exp_tqfovh",
-      "title": "Lutyens Delhi Cycle Tour",
-      "city": "Delhi",
-      "category": "Cultural",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/delhi.webp"
-    },
-    {
-      "id": "exp_27pkf",
-      "title": "Hot Air Balloon Safari",
-      "city": "Jaipur",
-      "category": "Adventure",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/jaipur.webp"
-    },
-    {
-      "id": "exp_7rd8y",
-      "title": "Block Printing Workshop",
-      "city": "Jaipur",
-      "category": "Cultural",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/jaipur.webp"
-    },
-    {
-      "id": "exp_x6zfhq",
-      "title": "Scuba Diving in Grande Island",
-      "city": "Goa",
-      "category": "Adventure",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/goa.webp"
-    },
-    {
-      "id": "exp_sx62q",
-      "title": "Spice Plantation Tour",
-      "city": "Goa",
-      "category": "Cultural",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/goa.webp"
-    },
-    {
-      "id": "exp_c61il",
-      "title": "Sunrise Boat Ride",
-      "city": "Varanasi",
-      "category": "Adventure",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/varanasi.webp"
-    },
-    {
-      "id": "exp_zg5bfa",
-      "title": "Evening Ganga Aarti",
-      "city": "Varanasi",
-      "category": "Cultural",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/varanasi.webp"
-    },
-    {
       "id": "exp_elhne",
       "title": "Heritage Walk of Old Agra",
       "city": "Agra",
@@ -4201,20 +3996,7 @@
       "rating": 4.8,
       "location": "Activity Center",
       "description": "An exciting local experience.",
-      "image": "/images/agra.webp"
-    },
-    {
-      "id": "exp_yk59dv",
-      "title": "Mughal Food Tour",
-      "city": "Agra",
-      "category": "Cultural",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/agra.webp"
+      "image": "/images/Heritage Walk of Old Agra.jpg"
     },
     {
       "id": "exp_tub0ue",
@@ -4227,39 +4009,13 @@
       "rating": 4.8,
       "location": "Activity Center",
       "description": "An exciting local experience.",
-      "image": "/images/kerala.webp"
-    },
-    {
-      "id": "exp_26n31p",
-      "title": "Kathakali Performance",
-      "city": "Kerala",
-      "category": "Cultural",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/kerala.webp"
+      "image": "/images/Ayurvedic Massage.jpg"
     },
     {
       "id": "exp_qcvkts",
       "title": "Dharavi Slum Tour",
       "city": "Mumbai",
       "category": "Adventure",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/mumbai.webp"
-    },
-    {
-      "id": "exp_ccqjf8",
-      "title": "Bollywood Studio Tour",
-      "city": "Mumbai",
-      "category": "Cultural",
       "host": "Local Guide",
       "duration": "3 hr",
       "price": 1500,
@@ -4279,20 +4035,7 @@
       "rating": 4.8,
       "location": "Activity Center",
       "description": "An exciting local experience.",
-      "image": "/images/amritsar.webp"
-    },
-    {
-      "id": "exp_rwvrda",
-      "title": "Heritage Walk",
-      "city": "Amritsar",
-      "category": "Cultural",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/amritsar.webp"
+      "image": "/images/Punjabi Village Experience.webp"
     },
     {
       "id": "exp_fkcq",
@@ -4305,20 +4048,7 @@
       "rating": 4.8,
       "location": "Activity Center",
       "description": "An exciting local experience.",
-      "image": "/images/udaipur.webp"
-    },
-    {
-      "id": "exp_bd6dn8",
-      "title": "Miniature Painting Class",
-      "city": "Udaipur",
-      "category": "Cultural",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/udaipur.webp"
+      "image": "/images/Sunset Boat Ride.webp"
     },
     {
       "id": "exp_4plryl",
@@ -4334,36 +4064,10 @@
       "image": "/images/rishikesh.webp"
     },
     {
-      "id": "exp_4l7b9",
-      "title": "Yoga & Meditation Retreat",
-      "city": "Rishikesh",
-      "category": "Cultural",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/rishikesh.webp"
-    },
-    {
       "id": "exp_8cqyki",
       "title": "Paragliding in Solang",
       "city": "Manali",
       "category": "Adventure",
-      "host": "Local Guide",
-      "duration": "3 hr",
-      "price": 1500,
-      "rating": 4.8,
-      "location": "Activity Center",
-      "description": "An exciting local experience.",
-      "image": "/images/manali.webp"
-    },
-    {
-      "id": "exp_66zl2j",
-      "title": "Beas River Trek",
-      "city": "Manali",
-      "category": "Cultural",
       "host": "Local Guide",
       "duration": "3 hr",
       "price": 1500,

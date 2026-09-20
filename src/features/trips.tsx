@@ -85,7 +85,7 @@ export default function Trips({
   const { state, trip: active, mutate } = useYatra();
   const router = useRouter();
   const trip = tripId ? state?.trips.find((t) => t.id === tripId) : active;
-  const [remove, setRemove] = useState(false);
+  const [remove, setRemove] = useState<string | false>(false);
   if (view === "list")
     return (
       <>
@@ -147,6 +147,13 @@ export default function Trips({
                         ? "Active journey"
                         : "Make active"}
                     </Button>
+                    <Button
+                      variant="ghost"
+                      onClick={() => setRemove(t.id)}
+                      aria-label="Delete trip"
+                    >
+                      <Trash2 size={15} />
+                    </Button>
                   </div>
                 </div>
               </article>
@@ -167,6 +174,20 @@ export default function Trips({
             </Button>
           </div>
         )}
+        <Confirm
+          open={!!remove}
+          onClose={() => setRemove(false)}
+          title="Clear this itinerary?"
+          description="This removes the trip and its stops. Existing bookings and expenses will remain in your account."
+          onConfirm={() =>
+            void mutate("trips/delete", { tripId: remove }, "Itinerary removed")
+              .then(() => {
+                setRemove(false);
+                router.push("/traveler/trips");
+              })
+              .catch(() => setRemove(false))
+          }
+        />
       </>
     );
   if (!trip)
@@ -280,7 +301,7 @@ export default function Trips({
             ))}
           </ul>
           <div className="actions mt-5">
-            <Button variant="ghost" onClick={() => setRemove(true)}>
+            <Button variant="ghost" onClick={() => setRemove(trip.id)}>
               <Trash2 size={15} />
               Clear itinerary
             </Button>
@@ -326,7 +347,7 @@ export default function Trips({
         </aside>
       </div>
       <Confirm
-        open={remove}
+        open={!!remove}
         onClose={() => setRemove(false)}
         title="Clear this itinerary?"
         description="This removes the trip and its stops. Existing bookings and expenses will remain in your account."
