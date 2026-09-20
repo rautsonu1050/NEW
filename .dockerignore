@@ -1,0 +1,11 @@
+node_modules
+.git
+.wrangler
+.sites-runtime
+dist
+build
+.next
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
